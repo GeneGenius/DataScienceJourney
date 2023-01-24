@@ -1,2 +1,2 @@
 # DataScienceJourney
-This contains all studies and project I have worked on
+This contains all data-related studies and projects I have worked on 
